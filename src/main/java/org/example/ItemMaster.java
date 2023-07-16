@@ -4,7 +4,7 @@ public class ItemMaster {
     ItemMaster(){
         System.out.println("ItemMaster.java default constructor");
     }
-    ItemMaster(String s){
-        System.out.println("ItemMaster.java parameterized constructor ::"+s);
+    ItemMaster(String str){
+        System.out.println("ItemMaster.java parameter  ized constructor ::"+str);
     }
 }

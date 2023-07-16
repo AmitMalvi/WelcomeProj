@@ -8,7 +8,7 @@ public class Distributor {
 
     Distributor(String s)
     {
-        System.out.println("Distributor.class paramenterized construtor :: " +s);
+        System.out.println("Distributor.class paramenterizd construto :: " +s);
     }
 
 }
