@@ -12,8 +12,9 @@ public class App
 
         String abc = "Hello There !";
 
-        Distributor dm = new Distributor();
-        ItemMaster im = new ItemMaster();
+        
+        Distributor dm = new Distributor(abc);
+        ItemMaster im = new ItemMaster(abc);
 
     }
 }
