@@ -12,8 +12,8 @@ public class App
 
         String abc = "Hello There !";
 
-        Distributor dm = new Distributor();
-        ItemMaster im = new ItemMaster();
+        Distributor dm = new Distributor("commiting changes on local server ");
+        ItemMaster im = new ItemMaster("commiting changes here in local");
 
     }
 }
