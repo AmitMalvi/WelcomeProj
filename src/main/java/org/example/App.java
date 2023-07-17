@@ -11,9 +11,13 @@ public class App
         System.out.println( "Preeti Malvi" );
 
         String abc = "Hello There !";
+        String xyz = "XXX";
         String bcd = "Hello There !";
 
-        
+        Distributor dm = new Distributor(xyz);
+        ItemMaster im = new ItemMaster(xyz);
+
+
         Distributor dm = new Distributor(abc);
         ItemMaster im = new ItemMaster(bcd);
 
