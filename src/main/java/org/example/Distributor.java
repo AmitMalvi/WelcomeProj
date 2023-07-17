@@ -11,4 +11,8 @@ public class Distributor {
         System.out.println("Distributor.class paramenterizd construto :: " +s);
     }
 
+    Distributor(Integer i)
+    {
+        System.out.println("Distributor.class paramenterizd construto :: " +i);
+    }
 }
