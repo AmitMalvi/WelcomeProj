@@ -2,6 +2,6 @@ package org.example;
 
 public class PinCodeMaster {
     PinCodeMaster(){
-        System.out.println("Pincode master");
+        System.out.println("default constructor");
     }
 }
