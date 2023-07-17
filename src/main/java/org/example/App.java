@@ -11,10 +11,11 @@ public class App
         System.out.println( "Preeti Malvi" );
 
         String abc = "Hello There !";
+        String bcd = "Hello There !";
 
         
         Distributor dm = new Distributor(abc);
-        ItemMaster im = new ItemMaster(abc);
+        ItemMaster im = new ItemMaster(bcd);
 
     }
 }
