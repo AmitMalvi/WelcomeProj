@@ -18,8 +18,8 @@ public class App
         ItemMaster im = new ItemMaster(xyz);
 
 
-        Distributor dm = new Distributor(abc);
-        ItemMaster im = new ItemMaster(bcd);
+        Distributor dm1 = new Distributor(abc);
+        ItemMaster im1 = new ItemMaster(bcd);
 
     }
 }
