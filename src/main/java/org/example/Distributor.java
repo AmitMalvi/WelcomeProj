@@ -17,6 +17,6 @@ public class Distributor {
     }
     Distributor(Integer i,String str)
     {
-        System.out.println("Distributor.class paramenterizd construto :: " +i+" "+ str);
+        System.out.println("Distributor.ram :: " +i+" "+ str);
     }
 }
