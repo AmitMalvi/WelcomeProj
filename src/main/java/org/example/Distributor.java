@@ -4,6 +4,7 @@ public class Distributor {
 
     Distributor(){
         System.out.println( "Ram" );
+        System.out.println( "Ram" );
     }
 
 }
