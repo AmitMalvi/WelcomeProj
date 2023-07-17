@@ -8,6 +8,7 @@ public class Inventory {
         System.out.println("Line 3 Added in 3 commit");
         System.out.println("Line 4 Added in 4 commit");
         System.out.println("Line 5 Added in 5 commit");
+        System.out.println("Line 6 Added in 6 commit");
 
     }
 }
