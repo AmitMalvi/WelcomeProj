@@ -19,6 +19,8 @@ public class App
 
         Distributor dm1 = new Distributor(abc);
         ItemMaster im1 = new ItemMaster(bcd);
+        System.out.println( "Preeti Malvi" );
+        System.out.println( "Preeti Malvi" );
 
     }
 }
